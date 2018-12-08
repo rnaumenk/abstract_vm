@@ -1,0 +1,9 @@
+push int32(42)
+push int8(56)
+max
+min
+avg
+fulldump
+rev
+fulldump
+exit

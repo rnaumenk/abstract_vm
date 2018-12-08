@@ -1,0 +1,33 @@
+; can't use 16777216 because half rounds up
+push float(33554432.0)
+push int8(1)
+add
+push int16(1)
+add
+push int32(1)
+add
+push float(1.0)
+add
+assert float(33554432.0)
+push float(2.0)
+add
+dump
+assert float(33554432.0)
+push float(3.0)
+add
+dump
+assert float(33554436.0)
+push double(1.0)
+add
+assert double(33554437.0)
+
+dump
+push int8(79)
+print
+push int8(75)
+print
+sub
+push int8(6)
+add
+print
+exit

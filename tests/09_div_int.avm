@@ -1,0 +1,6 @@
+;6175617
+push int32(61756170)
+push int32(10)
+div
+dump
+exit

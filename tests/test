@@ -1,0 +1,15 @@
+push int8(1)
+push int16(2)
+push int32(3)
+push float(4.0)
+push double(5.0)
+dump
+rev
+dump
+assert int8(1)
+fulldump
+avg
+min
+max
+exit
+;;

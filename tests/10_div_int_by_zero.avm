@@ -1,0 +1,6 @@
+;Division by zero!
+push int32(61756170)
+push int32(0)
+div
+dump
+exit

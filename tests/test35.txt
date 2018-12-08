@@ -1,0 +1,5 @@
+;EXPECT overflows result type of Float
+push float(2E+38)
+push float(2E+38)
+add
+; Max 3.4E+38

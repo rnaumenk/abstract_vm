@@ -1,0 +1,17 @@
+pop
+dump
+push float(42.0)
+push float(42.0)
+pop
+dump
+add
+sub
+push int16(31222);
+push int16(4542);
+mul
+push int8(123);
+push int8(0);
+div
+mod
+print
+exit

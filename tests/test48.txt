@@ -1,0 +1,30 @@
+; Test that types are preserved
+
+push int8(3)
+    assert int8(3)
+push int8(-4)
+    assert int8(-4)
+add ; 1
+    assert int8(-1)
+push int16(1000) ;; fail
+    assert int16(1000)
+add ; 1
+    assert int16(999)
+;;
+push int8(101) ; 2
+add ; 1
+    assert int16(1100)
+push int32(70000) ; 2
+push int32(-150000) ; 3
+    assert int32(-150000)
+add ; 2 (on stack: -80K 1100)
+    assert int32(-80000)
+add ; 1
+    assert     int32(-78900)  ;   extra comment space
+
+push int8(127)
+push int16(1)
+   add
+    assert int16(128)
+dump
+exit

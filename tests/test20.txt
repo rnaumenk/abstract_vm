@@ -1,0 +1,36 @@
+push int32(55555)
+push double(10)
+div
+push float(0.5)
+sub
+push int16(4445)
+add
+push int32(10000)
+div
+push int8(0)
+mul
+push int16(32)
+div
+push int8(10)
+push int8(14)
+add
+push int8(-1)
+sub
+dump
+exit
+fdsf
+fsdf
+sdfsd
+sdf
+sdfdsfsdfsd
+dsfdsf
+sdfsd
+d
+dfsd
+fdssdds
+fsd
+sdsd
+fsd
+sdf
+sd
+;;

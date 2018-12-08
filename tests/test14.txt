@@ -1,0 +1,7 @@
+push int8(4)
+push int16(4)
+push int32(4)
+push float(4)
+push double(4)
+dump
+exit

@@ -1,0 +1,4 @@
+;EXPECT Divide by 0
+push float(1234)
+push int16(0)
+div

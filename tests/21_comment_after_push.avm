@@ -1,0 +1,3 @@
+push int8(2)  ;gopa, but it must be 2
+dump
+exit

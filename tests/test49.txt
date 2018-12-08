@@ -1,0 +1,4 @@
+;EXPECT empty stack
+
+push int8(10)
+add

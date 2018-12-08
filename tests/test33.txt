@@ -1,0 +1,8 @@
+;EXPECT Divide by 0
+push float(101.01)
+push float(1.01)
+mod
+dump
+push float(0)
+mod
+exit

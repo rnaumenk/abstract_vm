@@ -1,0 +1,5 @@
+;EXPECT Infinite value
+push float(+Inf)
+push float(1)
+add
+exit

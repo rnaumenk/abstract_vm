@@ -1,0 +1,14 @@
+push int16(482)
+push int8(2)
+dump
+add
+assert int16(484)
+push int16(400)
+sub
+assert int16(84)
+push int8(2)
+dump
+div
+assert int16(42)
+pop
+exit

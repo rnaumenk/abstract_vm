@@ -1,0 +1,4 @@
+;EXPECT overflows result type of Int16
+push int16(16386)
+push int8(2)
+mul

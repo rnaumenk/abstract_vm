@@ -1,0 +1,14 @@
+
+push float(1152921504606846976.0)
+push int16(1024)
+div
+push int16(1024)
+div
+push int16(1024)
+div
+push int16(1024)
+div
+push int16(1024)
+div
+assert float(1024.0)
+dump

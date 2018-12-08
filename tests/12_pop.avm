@@ -1,0 +1,6 @@
+;1
+push int8(1)
+dump
+pop
+dump
+exit

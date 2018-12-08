@@ -1,0 +1,9 @@
+push float(0.000001)
+push double(0.00001)
+mul
+fulldump
+add
+push int8h(42)
+assert sdghhhdsf
+exit
+jjj

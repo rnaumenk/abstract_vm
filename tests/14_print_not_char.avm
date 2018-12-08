@@ -1,0 +1,4 @@
+;err
+push int32(64)
+print
+exit

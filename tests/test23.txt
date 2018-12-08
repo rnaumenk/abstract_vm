@@ -1,0 +1,65 @@
+; test add ;
+add int16(10)
+adddsadasdasda
+add fdsfsfs
+; test pop ;
+pop int8(10)
+pop fdsfsf
+popfdsfsfs
+; test dump ;
+dump int8(10)
+dump fdsfsfs
+dumpfdsfsfs
+; test sub ;
+sub int8(10)
+sub fdsfsfs
+subfdsfsfs
+; test mul ;
+mul int8(10)
+mul fdsfsfs
+mulfdsfsfs
+; test div ;
+div int8(10)
+div fdsfsfs
+divfdsfsfs
+; test mod ;
+mod int8(10)
+mod fdsfsfs
+modfdsfsfs
+; test print ;
+print int8(10)
+print fdsfsfs
+printfdsfsfs
+; test exit ;
+exit int8(10)
+exit fdsfsfs
+exitfdsfsfs
+; test push ;
+pushint8(10)
+push int 16(43)
+push int45(10)
+push int8(10
+push int(10)
+push int1699)
+push int8(42.42)
+push int16(42.42)
+push int32(42.42)
+; test assert ;
+assertint8(10)
+assert int 16(43)
+assert int45(10)
+assert int8(10
+assert int(10)
+assert int1699)
+assert int8(42.42)
+assert int16(42.42)
+assert int32(42.42)
+assert double(42.42-)
+assert int32(42-)
+; ramdom ;
+dsadasda
+00000000000000
+070 707 0470 4717
+dasdada dsadada dasdasda
+exit
+;;

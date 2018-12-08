@@ -1,0 +1,6 @@
+;24
+push int32(49)
+push int32(25)
+mod
+dump
+exit

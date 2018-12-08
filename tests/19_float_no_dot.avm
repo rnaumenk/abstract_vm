@@ -1,0 +1,3 @@
+push float(1)
+dump
+exit

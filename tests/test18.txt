@@ -1,0 +1,18 @@
+push int8(7)
+push int8(90)
+add
+print
+push int32(-16)
+push int16(14)
+push float(47.24)
+push double(-42.42)
+sub
+push int8(41)
+print
+push int8(5)
+push int16(13)
+mul
+assert int16(65)
+dump
+exit
+;;

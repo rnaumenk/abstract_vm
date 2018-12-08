@@ -1,0 +1,4 @@
+;EXPECT overflows result type of Int32
+push int32(-1700000000)
+push int32(1700000000)
+sub

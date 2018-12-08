@@ -1,0 +1,7 @@
+
+push float(+Inf)
+dump
+push float(+Inf)
+sub
+dump
+exit

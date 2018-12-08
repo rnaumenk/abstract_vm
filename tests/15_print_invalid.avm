@@ -1,0 +1,4 @@
+;overflow
+push int8(600)
+print
+exit

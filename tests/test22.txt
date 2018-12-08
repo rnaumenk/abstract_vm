@@ -1,0 +1,17 @@
+
+			push int16(41)	
+																														push int16(41)			      	    
+																														push double(-555555.555555555555555)
+   dump
+
+   cos
+   sin
+   push int8(-5)
+   tan
+   mid		
+   					push	int8(69)
+   								      print
+   								      max
+   								      min			
+	   exit 		
+	   dsadasd

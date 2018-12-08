@@ -1,0 +1,40 @@
+push int8(10)
+push int8(-10)
+push int16(10)
+push int32(10)
+
+
+
+;; test ;;
+; test ;
+; 
+
+
+;
+
+
+
+push float(10)
+push float(42.42)
+push double(10)
+push double(42.42)
+push double(1)
+push double(-42)
+push double(-42.42)
+assert int8(10)
+assert int16(10)
+assert int32(10)
+assert float(10)
+assert double(10)
+assert float(42.42)
+assert double(42.42)
+add
+pop
+dump
+sub
+mul
+div
+mod
+print
+exit
+;;

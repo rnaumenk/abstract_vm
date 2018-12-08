@@ -1,0 +1,6 @@
+;Modulo by zero!
+push int32(49)
+push int32(0)
+mod
+dump
+exit

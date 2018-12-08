@@ -1,0 +1,3 @@
+;EXPECT Reached end of file without 'exit' instruction
+
+;;

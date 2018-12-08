@@ -1,0 +1,7 @@
+;EXPECT overflows result type of Float
+push float(1E+20)
+push float(1E-20)
+dump
+div
+dump
+exit

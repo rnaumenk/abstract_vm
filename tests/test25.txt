@@ -1,0 +1,6 @@
+; File of entirely comments
+ ;
+  ;
+;
+;;;;;;;;
+push int8(2;) ; Comment

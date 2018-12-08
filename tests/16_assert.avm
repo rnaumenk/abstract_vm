@@ -1,0 +1,7 @@
+;64
+;64
+push int8(64)
+dump
+assert int8(64)
+dump
+exit
